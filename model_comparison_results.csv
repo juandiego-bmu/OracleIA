@@ -1,0 +1,9 @@
+model_name,best_params,best_score,Accuracy,Precision,MAE,MSE,RMSE
+Random Forest Classifier (Grid Search),"{'max_depth': 30, 'max_features': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",0.8218201754385965,0.8245175438596491,0.8247017646570557,,,
+Random Forest Classifier (Random Search),"{'n_estimators': 300, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': None, 'max_depth': 30}",0.821655701754386,0.824078947368421,0.8242656436128195,,,
+Random Forest Regressor (Grid Search),"{'max_depth': None, 'max_features': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",-11.198397953344216,,,10.6493942186919,233.47592137888932,15.279918893073004
+Random Forest Regressor (Random Search),"{'n_estimators': 200, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': None, 'max_depth': None}",-11.21115877905142,,,10.65945541768632,233.33692505058025,15.275369882611034
+Gradient Boosting Classifier (Grid Search),"{'learning_rate': 0.2, 'max_depth': 7, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 300}",0.8243421052631579,0.8244736842105264,0.8244898800732925,,,
+Gradient Boosting Classifier (Random Search),"{'n_estimators': 300, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_depth': 7, 'learning_rate': 0.2}",0.8237828947368421,0.8282456140350877,0.8282645227742064,,,
+Gradient Boosting Regressor (Grid Search),"{'learning_rate': 0.2, 'max_depth': 7, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 300}",-11.698963977938527,,,11.482635150903416,245.4112405414154,15.665606931792187
+Gradient Boosting Regressor (Random Search),"{'n_estimators': 300, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_depth': 7, 'learning_rate': 0.2}",-11.731596133806736,,,11.569377328018911,250.2016163275162,15.817762684005478
