@@ -12,7 +12,13 @@ Un análisis completo de machine learning para predecir la popularidad de cancio
 ## ¿Qué hemos hecho? 
 1º Hemos **comparado 8 modelos candidatos** para ser usados en el modelo final, saliendo vencedores el Gradient Boosting Classifier (Random Search) (mejor clasificador)          (Accuracy: 82.82%) y el Random Forest Regressor (Grid Search) (mejor regresor) (MAE: 10.6494)
 
-2º Luego hemos usado **los 2 modelos ganadores en nuestra IA para predecir hits del verano**, y la hemos entrenado. 
+2º Luego hemos usado **los 2 modelos ganadores en nuestra IA para predecir hits del verano**, y la hemos entrenado. También hemos identificado las características claves para un hit del verano. 
+
+![imagen](https://github.com/user-attachments/assets/098b4292-415e-4c7a-9d11-c1dcce51aa2d)
+
+
+![imagen](https://github.com/user-attachments/assets/f9a499a1-016d-4a5b-9500-0162f6196e99)
+
 
 3º Hemos **corregido algunos parámetros y ajustado la precisión** del modelo. 
 
