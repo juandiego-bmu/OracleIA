@@ -24,6 +24,19 @@ Un análisis completo de machine learning para predecir la popularidad de cancio
 
 4º Hemos hecho una **batería de pruebas** para testear su funcionamiento.
 
+## 📊 Métricas de Evaluación
+
+### Para Clasificación
+- **Accuracy**: Precisión general del modelo
+- **Precision**: Precisión de predicciones positivas
+- **Recall**: Cobertura de casos positivos
+- **F1-Score**: Media armónica de precision y recall
+
+### Para Regresión
+- **MAE (Mean Absolute Error)**: Error absoluto medio
+- **MSE (Mean Squared Error)**: Error cuadrático medio
+- **RMSE (Root Mean Squared Error)**: Raíz del error cuadrático medio
+
 ## Características Principales
 
 ###  Análisis de Popularidad Musical
@@ -105,20 +118,6 @@ Un análisis completo de machine learning para predecir la popularidad de cancio
 - **Grid Search**: Búsqueda exhaustiva de parámetros
 - **Random Search**: Búsqueda aleatoria optimizada
 - **Cross-Validation**: Validación cruzada de 5 folds
-
-
-## 📊 Métricas de Evaluación
-
-### Para Clasificación
-- **Accuracy**: Precisión general del modelo
-- **Precision**: Precisión de predicciones positivas
-- **Recall**: Cobertura de casos positivos
-- **F1-Score**: Media armónica de precision y recall
-
-### Para Regresión
-- **MAE (Mean Absolute Error)**: Error absoluto medio
-- **MSE (Mean Squared Error)**: Error cuadrático medio
-- **RMSE (Root Mean Squared Error)**: Raíz del error cuadrático medio
 
 ## 🎨 Visualizaciones Incluidas
 
