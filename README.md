@@ -9,15 +9,14 @@ Un análisis completo de machine learning para predecir la popularidad de cancio
 1. **Predicción de Popularidad General**: Modelos de regresión y clasificación para predecir qué tan popular será una canción
 2. **Predictor de Hits de Verano**: Modelo especializado en identificar canciones con potencial para convertirse en éxitos durante el verano
 
-## Qué hemos hecho? 
-1º Hemos comparado 8 modelos candidatos para ser usados en el modelo final, saliendo vencedores el Gradient Boosting Classifier (Random Search) (mejor clasificador) (Accuracy: 82.82%) y 
-el Random Forest Regressor (Grid Search) (mejor regresor) (MAE: 10.6494)
+## ¿Qué hemos hecho? 
+1º Hemos **comparado 8 modelos candidatos** para ser usados en el modelo final, saliendo vencedores el Gradient Boosting Classifier (Random Search) (mejor clasificador) (Accuracy: 82.82%) y el Random Forest Regressor (Grid Search) (mejor regresor) (MAE: 10.6494)
 
-2º Luego hemos usado los 2 modelos ganadores en nuestra IA para predecir hits del verano, y la hemos entrenado. 
+2º Luego hemos usado **los 2 modelos ganadores en nuestra IA para predecir hits del verano**, y la hemos entrenado. 
 
-3º Hemos corregido algunos parámetros y ajustado la precisión del modelo. 
+3º Hemos **corregido algunos parámetros y ajustado la precisión** del modelo. 
 
-4º Hemos hecho una batería de pruebas para ponerlo a prueba
+4º Hemos hecho una **batería de pruebas** para testear su funcionamiento.
 
 ## Características Principales
 
