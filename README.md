@@ -10,7 +10,7 @@ Un análisis completo de machine learning para predecir la popularidad de cancio
 2. **Predictor de Hits de Verano**: Modelo especializado en identificar canciones con potencial para convertirse en éxitos durante el verano
 
 ## ¿Qué hemos hecho? 
-1º Hemos **comparado 8 modelos candidatos** para ser usados en el modelo final, saliendo vencedores el Gradient Boosting Classifier (Random Search) (mejor clasificador) (Accuracy: 82.82%) y el Random Forest Regressor (Grid Search) (mejor regresor) (MAE: 10.6494)
+1º Hemos **comparado 8 modelos candidatos** para ser usados en el modelo final, saliendo vencedores el Gradient Boosting Classifier (Random Search) (mejor clasificador)          (Accuracy: 82.82%) y el Random Forest Regressor (Grid Search) (mejor regresor) (MAE: 10.6494)
 
 2º Luego hemos usado **los 2 modelos ganadores en nuestra IA para predecir hits del verano**, y la hemos entrenado. 
 
