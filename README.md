@@ -45,7 +45,7 @@ Un análisis completo de machine learning para predecir la popularidad de cancio
 - Comparación de múltiples algoritmos de machine learning
 - Visualizaciones interactivas y análisis estadístico
 
-### 🌞 Predictor de Hits de Verano
+###  Predictor de Hits de Verano
 - Modelo especializado para identificar canciones de verano
 - Características personalizadas basadas en patrones estacionales
 - Análisis de factores que contribuyen al éxito estival
