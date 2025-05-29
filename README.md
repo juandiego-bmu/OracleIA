@@ -2,7 +2,7 @@
 
 Un análisis completo de machine learning para predecir la popularidad de canciones y detectar hits de verano utilizando datos de Spotify.
 
-## 📝 Descripción 
+##  Descripción 
 
 **OracleIA** es un proyecto de ciencia de datos que implementa múltiples modelos de machine learning para analizar y predecir la popularidad de canciones musicales. El proyecto incluye dos enfoques principales:
 
@@ -51,7 +51,7 @@ Un análisis completo de machine learning para predecir la popularidad de cancio
 - Análisis de factores que contribuyen al éxito estival
 - Métricas de evaluación específicas para hits de verano
 
-## 📊 Modelos Implementados
+##  Modelos Implementados
 
 ### Modelos de Clasificación
 - **Random Forest Classifier** (Grid Search y Random Search)
@@ -92,7 +92,7 @@ Un análisis completo de machine learning para predecir la popularidad de cancio
 - **Precision**: 96.9%
 - **F1-Score**: 60.9%
 
-### 📊 Características Más Importantes
+###  Características Más Importantes
 
 1. **track_genre_encoded** (18.25%) - Género musical
 2. **summer_index** (13.20%) - Índice de verano personalizado
@@ -100,26 +100,26 @@ Un análisis completo de machine learning para predecir la popularidad de cancio
 4. **duration_ms** (6.13%) - Duración de la canción
 5. **loudness** (6.11%) - Volumen/intensidad
 
-## 🎯 Funcionalidades Destacadas
+##  Funcionalidades Destacadas
 
-### 🔍 Análisis Exploratorio
+###  Análisis Exploratorio
 - Distribución de popularidad por géneros
 - Correlaciones entre características musicales
 - Visualizaciones interactivas de patrones
 
-### 🌊 Características de Verano Personalizadas
+###  Características de Verano Personalizadas
 - **summer_index**: Índice compuesto para hits de verano
 - **energy_valence_ratio**: Relación energía/valencia
 - **dance_energy_combo**: Combinación danceabilidad-energía
 - **positive_dance_factor**: Factor de positividad bailable
 - **radio_friendly_duration**: Duración amigable para radio
 
-### ⚡ Optimización de Hiperparámetros
+###  Optimización de Hiperparámetros
 - **Grid Search**: Búsqueda exhaustiva de parámetros
 - **Random Search**: Búsqueda aleatoria optimizada
 - **Cross-Validation**: Validación cruzada de 5 folds
 
-## 🎨 Visualizaciones Incluidas
+##  Visualizaciones Incluidas
 
 -  Histogramas de distribución de popularidad
 -  Gráficos de correlación entre características
