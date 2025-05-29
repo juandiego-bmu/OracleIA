@@ -1,4 +1,4 @@
-# 🎵 OracleIA - Predictor de Popularidad Musical 🎵
+# 🎵 OracleIA - Predictor de Popularidad Musical 
 
 Un análisis completo de machine learning para predecir la popularidad de canciones y detectar hits de verano utilizando datos de Spotify.
 
@@ -10,7 +10,7 @@ Un análisis completo de machine learning para predecir la popularidad de cancio
 2. **Predictor de Hits de Verano**: Modelo especializado en identificar canciones con potencial para convertirse en éxitos durante el verano
 
 ## ¿Qué hemos hecho? 
-1º Hemos **comparado 8 modelos candidatos** para ser usados en el modelo final, saliendo vencedores el Gradient Boosting Classifier (Random Search) (mejor clasificador)          (Accuracy: 82.82%) y el Random Forest Regressor (Grid Search) (mejor regresor) (MAE: 10.6494)
+1º Hemos **comparado 8 modelos candidatos** para ser usados en el modelo final, saliendo vencedores el Gradient Boosting Classifier (Random Search) (mejor clasificador) (Accuracy: 82.82%) y el Random Forest Regressor (Grid Search) (mejor regresor) (MAE: 10.6494). Estos resultados son de pruebas anteriores, por lo que pueden variar ligeramente del resultado en el cuaderno, también hemos decidido usar el Gradient Boosting Classifier, porque en pruebas anteriores fue superior al Random Forest Classifier.
 
 2º Luego hemos usado **los 2 modelos ganadores en nuestra IA para predecir hits del verano**, y la hemos entrenado. También hemos identificado las características claves para un hit del verano. 
 
